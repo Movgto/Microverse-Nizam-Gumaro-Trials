@@ -1,0 +1,13 @@
+#navbar {
+    position: fixed;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    width: 20vw;
+    border: solid red;
+}
+
+#main-doc {
+    margin-left: 20vw;
+    padding: 2rem;
+}
